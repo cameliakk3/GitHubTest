@@ -1,1 +1,1 @@
-# GitHubTest
+print("Buna ziua")
